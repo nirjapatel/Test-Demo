@@ -1,3 +1,6 @@
+% @todo add an issue for test the repo
+% @body check if any test cases fails
+
 % check file name
 % with name of func
 
